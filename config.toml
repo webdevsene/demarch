@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-# baseURL = "https://"
-baseURL = "localhost"
+baseURL = "https://"
+# baseURL = "localhost"
 title = "Meghna"
 theme = "meghna-hugo"
 # themesDir = "../.."
